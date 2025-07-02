@@ -1,1 +1,1 @@
-# SQL-TASK-06
+Use of subqueries in SELECT, WHERE, and FROM.# SQL-TASK-06
